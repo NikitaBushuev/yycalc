@@ -15,13 +15,13 @@ To build and run the Yacc calculator, you'll need the following software install
 1. Clone this repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/nikitabushuev/yacc-calculator.git
+    git clone https://github.com/nikitabushuev/yycalc.git
     ```
 
 2. Navigate to the repository's directory:
 
     ```bash
-    cd yacc-calculator
+    cd yycalc
     ```
 
 3. Use the provided Makefile to compile the calculator:
